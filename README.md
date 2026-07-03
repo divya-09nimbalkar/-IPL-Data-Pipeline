@@ -2,15 +2,15 @@
 ---
 
 ```markdown
-# 🏏 IPL Data Pipeline
+#  IPL Data Pipeline
 
 A Python project to **fetch IPL match data**, clean it, analyze statistics, and visualize results.  
 This pipeline is designed for **data engineering + analytics workflows**, making it easy to extend with machine learning models later.
 
----
 
-## 📂 Project Structure
-```
+
+##  Project Structure
+
 IPL_Data_Pipeline/
 │
 ├── data/
@@ -38,7 +38,7 @@ IPL_Data_Pipeline/
 
 ---
 
-## 🚀 Features
+##  Features
 - Fetch IPL match data (mock dataset or API integration)
 - Store raw and processed data
 - Clean and preprocess match records
@@ -48,7 +48,7 @@ IPL_Data_Pipeline/
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 ### 1. Install dependencies
 ```bash
@@ -67,7 +67,7 @@ jupyter notebook notebooks/exploration.ipynb
 
 ---
 
-## 📊 Example Outputs
+##  Example Outputs
 
 - **Analysis Results**
   ```text
@@ -85,7 +85,7 @@ jupyter notebook notebooks/exploration.ipynb
 
 ---
 
-## 🧪 Testing
+##  Testing
 Run unit tests with:
 ```bash
 pytest tests/
@@ -93,7 +93,7 @@ pytest tests/
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 - Integrate live IPL API for real‑time match data
 - Add player‑level statistics (strike rates, wickets, averages)
 - Build ML models for **match outcome prediction**
@@ -101,13 +101,13 @@ pytest tests/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 Pull requests are welcome!  
 For major changes, please open an issue first to discuss what you’d like to change.
 
 ---
 
-## 📜 License
+##  License
 This project is licensed under the MIT License — see the `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]` file for details.
 ```
 
